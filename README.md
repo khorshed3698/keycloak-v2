@@ -1,0 +1,1 @@
+Keycloak workflow manages authentication and authorization
